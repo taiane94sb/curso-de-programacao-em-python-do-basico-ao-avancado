@@ -7,6 +7,8 @@ num = 42
 print(42)
 print(num)
 print(type(num))
+print(float(num))
+print(type(num))
 
 print(5 + 4)
 print(7 - 2)
