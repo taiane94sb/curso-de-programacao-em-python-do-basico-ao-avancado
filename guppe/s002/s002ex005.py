@@ -21,4 +21,3 @@ print(f"Seja bem-vindo(a) {nome}!") # Saída de dados
 idade = input("Qual a sua idade? ") # Entrada de dados
 print(f"A {nome} tem {idade} anos.") # Saída de dados
 print(f"A {nome} nasceu no ano de {2025 - int(idade)}.") # Saída de dados
-
