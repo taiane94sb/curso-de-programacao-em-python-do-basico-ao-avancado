@@ -31,7 +31,6 @@ for num in range(0, 10, 2):
 Obs.: valor_de_parada não inclusiva (inicio especificado pelo usuário, e passo especificado pelo usuário)
 for num in range(10, 0, -1):
     print(num)
-
 """
 
 
